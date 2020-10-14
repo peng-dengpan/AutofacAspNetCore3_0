@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNQxu6P3HVEOwY972pmEdgNifEKZHygE/yJIotqKds2Gg6f2ugCw0tP5cyD8qszsFZaTIG7vM+wu6dPRXbC6tQ==",
+  "success": true,
+  "projectFilePath": "F:\\other\\github\\AutofacAspNetCore3_0\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

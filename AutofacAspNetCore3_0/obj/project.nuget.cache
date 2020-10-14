@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b2zIJw5hsmuy768DP1nhDQnYtEpdaalSV1nnTBVNIznwpAF5UPgtvILUt5r3RnylMD6tTMWUXXPD+n2Orn+51w==",
+  "success": true,
+  "projectFilePath": "F:\\other\\github\\AutofacAspNetCore3_0\\AutofacAspNetCore3_0\\AutofacAspNetCore3_0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.0.2\\autofac.extensions.dependencyinjection.7.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
