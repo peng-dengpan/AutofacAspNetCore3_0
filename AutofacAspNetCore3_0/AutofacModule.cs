@@ -28,7 +28,7 @@ namespace AutofacAspNetCore3_0
 
             var controllerBaseType = typeof(ControllerBase);
             builder.RegisterAssemblyTypes(AutofacAspNetCore3_0)
-                //.Where(t => !t.Name.EndsWith("Service") && t.Name != "TestController" && t.Name != "events") ///  如果注释 必须放属性注册【PropertiesAutowired】的前面
+                //.Where(t => !t.Name.EndsWith("Service") && t.Name != "TestController" && t.Name != "events") ///  如果取消注释 必须放属性注册【PropertiesAutowired】的前面
                 .InstancePerLifetimeScope();//每一个依赖或调用创建一个单一的共享的实例
 
             builder.RegisterAssemblyTypes(AutofacAspNetCore3_0)
